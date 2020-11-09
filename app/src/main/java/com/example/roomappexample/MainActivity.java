@@ -19,9 +19,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Animal tiger1 = new Animal("t1", "Richard Packer", 9);
-        Animal elphant1 = new Animal("p1", "Con voi", 12);
-        Animal mouse1 = new Animal("m1", "Mickey", 5);
+        Animal tiger1 = new Animal("t1", "Vinh 1", 9);
+        Animal elphant1 = new Animal("p1", "Vinh 2", 12);
+        Animal mouse1 = new Animal("m1", "Vinh 3", 5);
 
 //        AppDatabase db = AppDatabase.getDatabase(this);
 //        AnimalRepository animalRepository = new AnimalRepository(getApplication());
